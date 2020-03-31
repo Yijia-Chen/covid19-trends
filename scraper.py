@@ -1,7 +1,6 @@
 from slimit import ast
 from slimit.parser import Parser
 from slimit.visitors import nodevisitor
-from pprint import pprint
 import scrapy
 import os
 import shutil
