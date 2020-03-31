@@ -8,10 +8,6 @@
 
 ## Installation and Use
 
-To use or collaborate, first install ```scrapy```, a popular web scrawler in Python, with
-    
-    pip install scrapy
-
 Pull the repo with
 
     git clone https://github.com/Yijia-Chen/covid19-trends.git
