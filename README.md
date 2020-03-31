@@ -1,12 +1,12 @@
 # Predict number of COVID-19 cases in selected countries
 
-### Motivation
+## Motivation
 
 **This project is a nonrigorous yet convenient attempt to estimate the number of COVID-19 cases in selected countries in 2020.** All data used are from [Worldometer](https://www.worldometers.info/coronavirus/). Currently I am working on making the model more predictive specifically for number of coronavirus cases. If you have a good idea on enhancing the model, please reach out to me and I am happy to discuss.
 
 **Nobody<sup>*</sup> in the West saw COVID-19 coming for them when the outbreak started in China.** At the inception of this project (end of March), many developing countries, including India and many in Africa, may be similarly unaware of the impending thread. It is troubling to think how much these places, without advanced medical capabilities like the US or China, may suffer when the outbreak hits. Through this project, I hope to contribute to public awareness of the concern and efforts to mitigate it.
 
-### Installation and Use
+## Installation and Use
 
 To use or collaborate, first install ```scrapy```, a popular web scrawler in Python, with
     
