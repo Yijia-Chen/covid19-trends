@@ -12,9 +12,13 @@ To use or collaborate, first install ```scrapy```, a popular web scrawler in Pyt
     
     pip install scrapy
 
-Then pull the repo with
+Pull the repo with
 
-    git clone https://github.com/Yijia-Chen/corona-trends/.git
+    git clone https://github.com/Yijia-Chen/covid19-trends.git
+    
+Then
+
+    cd covid19-trends
 
 To crawl data from the Worldometer site, run
 
